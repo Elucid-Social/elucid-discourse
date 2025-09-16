@@ -58,8 +58,6 @@
   },
   "engines": {
     "node": ">= 20",
-    "npm": "please-use-pnpm",
-    "yarn": "please-use-pnpm",
     "pnpm": "^9"
   },
   "packageManager": "pnpm@9.15.5",
